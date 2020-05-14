@@ -1,6 +1,6 @@
 # ecommerce-app
 
-## This application is developed using Spring Boot and MySql. Below are the API documentation -
+## This application is developed using Spring Boot and MySql. Below is the API documentation -
 
 APIs - 
 1. Fetch the product details using id : **GET http://localhost:8080/api/products/{id}**
